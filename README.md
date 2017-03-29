@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Parkchester
 
 You can use the [editor on GitHub](https://github.com/kendc913/Parkchester/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
