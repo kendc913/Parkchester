@@ -1,8 +1,9 @@
 ## Welcome to Parkchester
-###Outline of Parkches
+
+Outline of Parkchester:
 
 Basic Demographics and Statistics:
-  ZIP: 10462 
+  -ZIP: 10462 
   Census Tract: 0210, 020602, 0212, 021602
   59% Hispanic 31% Black 6% Asian 5% Other 
   32% Are Foreign Born
