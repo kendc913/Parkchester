@@ -1,6 +1,6 @@
 ## Welcome to Parkchester
-
-Outline of Parkchester:
+ddf
+#Outline of Parkcheste
 
 Basic Demographics and Statistics:
   ZIP: 10462 
@@ -22,9 +22,31 @@ Basic Demographics and Statistics:
   11.87 Miles/ 19.11 Kilometers
 
 Top Ten License Plates with the Most Tickets:
+  Plate 60333JR has 254 tickets.
+  Plate 30939JX has 190 tickets.
+  Plate 12428JB has 175 tickets.
+  Plate 49839JG has 166 tickets.
+  Plate 83548JU has 140 tickets.
+  Plate 51974JS has 137 tickets.
+  Plate 41988JX has 136 tickets.
+  Plate 91729MC has 108 tickets.
+  Plate A54EZX has 106 tickets.
+  Plate 32312JK has 94 tickets.
 
 Top Ten Most Common 311 Complaints:
-
+  Complaint	HEATING	was	reported	14177	times.
+  Complaint	HEAT/HOT	WATER	was	reported	13479	times.
+  Complaint	Noise	- Residential	was	reported	13418	times.
+  Complaint	PLUMBING	was	reported	5994	times.
+  Complaint	Blocked	Driveway	was	reported	5525	times.
+  Complaint	GENERAL	CONSTRUCTION	was	reported	4698	times.
+  Complaint	Street	Light	Condition	was	reported	4548	times.
+  Complaint	PAINT	- PLASTER	was	reported	3884	times.
+  Complaint	Street	Condition	was	reported	3325	times.
+  Complaint	PAINT/PLASTER	was	reported	2893	times.
+  Complaint	UNSANITARY	CONDITION	was	reported	2835	times.
+  There	are	11	complaints	in	this	list	because	PAINT	– PLASTER	and	PAINT/PLASTER	seem	to	be the	same	complaint.
+  
 Map of 311 Complaints:
 
 
