@@ -1,6 +1,5 @@
 ## Welcome to Parkchester
-ddf
-#Outline of Parkcheste
+###Outline of Parkches
 
 Basic Demographics and Statistics:
   ZIP: 10462 
