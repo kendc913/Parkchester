@@ -48,8 +48,7 @@
 - There	are	11	complaints	in	this	list	because	PAINT	– PLASTER	and	PAINT/PLASTER	seem	to	be the	same	complaint.
   
 **Map of 311 Complaints:**
-
-
+https://github.com/kendc913/Parkchester/blob/master/Screen%20Shot%202017-03-08%20at%206.33.14%20PM.png
 
 
 
